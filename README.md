@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohd Umair Naim
 ================================
 
-Software Engineer
+Software Engineer at Pathshalahub
 -----------------
 
 * 🌍  I'm based in Kanpur, Uttar Pradesh
