@@ -5,7 +5,7 @@ Software Engineer at Pathshalahub
 -----------------
 
 * 🌍  I'm based in Kanpur, Uttar Pradesh
-* 🖥️  See my portfolio at [Umair's Portifolio]([http://google.com](https://umairnaim10.github.io/Portifolio-/))
+* 🖥️  See my portfolio at [Umair's Portifolio]((http://google.com](https://umairnaim10.github.io/Portifolio-/))
 * ✉️  You can contact me at [Umairnaim10@gmail.com](mailto:Umairnaim10@gmail.com)
 * 🚀  I'm currently working on [Personal Portifolio]([http://github.io](https://umairnaim10.github.io/Portifolio-/))
 * ⚡  I can cook and dance
