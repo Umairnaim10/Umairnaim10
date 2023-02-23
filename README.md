@@ -10,7 +10,8 @@ Working at Pathshalahub
 *   🖥️  See my portfolio at [Umair's Portifolio](http://umairnaim10.github.io/Portifolio-/)
 *   ✉️  You can contact me at [Umairnaim10@gmail.com](mailto:Umairnaim10@gmail.com)
 *   🧠  I'm learning Node JS
-*   ⚡  I can cook and dance<a href="https://www.twitter.com/Umair_naim" target="_blank" rel="noreferrer"><img
+*   ⚡  I can cook and dance
+<a href="https://www.twitter.com/Umair_naim" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Umair_naim?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
 <p align="left">
